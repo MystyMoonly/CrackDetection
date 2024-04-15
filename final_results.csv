@@ -1,0 +1,11 @@
+,Filename,Result,Confidance of being Cracked
+0,10clear.jpg,Negative (Not Crack),0.350961
+1,1craked.jpg,Positive(Crack) ,0.910162
+2,2clear.jpg,Negative (Not Crack),0.341892
+3,3cracked.jpg,Positive(Crack) ,0.885118
+4,4cracked.jpg,Positive(Crack) ,0.801742
+5,5clear.jpg,Negative (Not Crack),0.350038
+6,6clear.jpg,Negative (Not Crack),0.273446
+7,7clear.jpg,Negative (Not Crack),0.271956
+8,8clear.jpg,Negative (Not Crack),0.333026
+9,9cracked.jpg,Positive(Crack) ,0.949231
